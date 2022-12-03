@@ -1,0 +1,16 @@
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.exe
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.deps.json
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.runtimeconfig.json
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.pdb
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Mvc.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Razor.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Helpers.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Deployment.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Razor.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Web.Infrastructure.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.Views.dll
+C:\Users\Eduard\Desktop\Уроки\ASP.NET\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.Views.pdb

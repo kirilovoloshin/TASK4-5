@@ -1,0 +1,16 @@
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.exe
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.deps.json
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.runtimeconfig.json
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.pdb
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Mvc.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Razor.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Helpers.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Deployment.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Razor.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Web.Infrastructure.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.Views.dll
+D:\1\Task4-5\Web\Web\obj\Release\netcoreapp3.1\PubTmp\Out\Web.Views.pdb

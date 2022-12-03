@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvfap8JDX9UyLgRuC00CCoAAAAAACAAAAAAAQZgAAAAEAACAAAACL+q65TWaejXJpZCjbis2N9Z34v9Q88e8JKpgab7j2/gAAAAAOgAAAAAIAACAAAAAzMpScAoz0f5MZsa38tlXvxeX7mk/++geA/pQVpNmbLCAAAADVcsLWb22tbXbHlfNIyVeDG2I222dfN2llR2vqUXHzUUAAAADIp/5dR8YahINKpMAnx926QqLPL1qkuO+xEfPca/D/o6zRebhFGUfofXqYwBBEXMLHCYnkv8BQAGid35PvEbiJ</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ryabovolenko.somee.com/www.ryabovolenko.somee.com</_PublishTargetUrl>
+    <History>True|2022-11-10T16:17:55.3132290Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/13/2022 16:48:04</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/13/2022 16:48:04</publishTime>
+    </File>
+    <File Include="Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 15:48:56</publishTime>
+    </File>
+    <File Include="System.Web.Helpers.dll">
+      <publishTime>05/28/2022 02:41:54</publishTime>
+    </File>
+    <File Include="System.Web.Mvc.dll">
+      <publishTime>05/28/2022 02:42:20</publishTime>
+    </File>
+    <File Include="System.Web.Razor.dll">
+      <publishTime>05/28/2022 02:42:06</publishTime>
+    </File>
+    <File Include="System.Web.WebPages.Deployment.dll">
+      <publishTime>05/28/2022 02:42:46</publishTime>
+    </File>
+    <File Include="System.Web.WebPages.dll">
+      <publishTime>05/28/2022 02:42:16</publishTime>
+    </File>
+    <File Include="System.Web.WebPages.Razor.dll">
+      <publishTime>05/28/2022 02:42:50</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/10/2022 19:16:26</publishTime>
+    </File>
+    <File Include="Web.deps.json">
+      <publishTime>11/10/2022 19:15:57</publishTime>
+    </File>
+    <File Include="Web.dll">
+      <publishTime>11/10/2022 19:15:53</publishTime>
+    </File>
+    <File Include="Web.exe">
+      <publishTime>11/10/2022 19:15:53</publishTime>
+    </File>
+    <File Include="Web.pdb">
+      <publishTime>11/10/2022 19:15:53</publishTime>
+    </File>
+    <File Include="Web.runtimeconfig.json">
+      <publishTime>11/10/2022 19:15:57</publishTime>
+    </File>
+    <File Include="Web.Views.dll">
+      <publishTime>11/10/2022 19:15:56</publishTime>
+    </File>
+    <File Include="Web.Views.pdb">
+      <publishTime>11/10/2022 19:15:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

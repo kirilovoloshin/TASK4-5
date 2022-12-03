@@ -1,0 +1,67 @@
+﻿@using Web.Domain
+
+@model IEnumerable<Question>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <title>Test</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="">Asp Net тест</a>
+        </div>
+    </nav>
+    <div class="container mt-3">
+
+        <form name="question" class="question" id="question" action="javascript:check()">
+            @{
+                foreach (var question in Model)
+                {
+                    <h3 nane="question-title">@question.title</h3>
+                    foreach (var answer in question.answears)
+                    {
+                        <input name="@question.title" type="radio" value="@answer.isTrue.ToString()">
+                        @answer.title
+                        <br>
+                    }
+                }
+
+                <div>
+                    <input value="Відповісти" type="submit" class="btn btn-primary mt-3 mb-3">
+                </div>
+            }
+
+        </form>
+        <script>
+            function check() {
+                let answears = document.querySelectorAll("input[value=True]");
+                let isTrue = 0;
+                let radio = document.querySelectorAll("input[type=radio");
+                let count = 0;
+                radio.forEach((e) => {
+                    if (e.checked) count++;
+                });
+
+                answears.forEach((e) => {
+                    if (e.checked) isTrue++;
+                });
+                
+                if (count == radio.length / 4) {
+                           
+                } else alert("Дайте відповіді на питання");
+
+            }
+
+        </script>
+    </div>
+</body>
+</html>
